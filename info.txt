@@ -1,0 +1,7 @@
+The .zip file is the file that would be submitted.
+additional files like the .gitignore, README and .odt are for the repository only and should not be included.
+
+NOTE: 
+The submission should be always compressed.
+The submission should be compressed as .zip. Other formats (.7z, .rar) are discuraged.
+On windows you can Zip a folder by doing RightClick -> Send to -> Compressed (zipped) folder.
