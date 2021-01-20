@@ -8,10 +8,15 @@ and should not be in the real submission.
 The example submission assignent is the following:
 
 GPR6600
+
 Make a game in Unity
+
 Submit the Build
+
 Submit the Project
+
 Submit the GDD (or documentation)
+
 
 
 
