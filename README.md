@@ -6,7 +6,6 @@ The "info.txt" files present are to provide explanations
 and should not be in the real submission.
 
 The example submission is a Unity project, but the same structure also applies
-
 to other forms of submission (Visual Studio Project, UE4)
 
 The example submission is: GPR6600_S1_LucaMartinelli.zip
